@@ -14,7 +14,7 @@ The game is not fully developed. some upgrades and features are missing/unbalanc
 
 ## Source Code
 feel free to check out the code I've written so far. Interesting systems you might want to check out include:
-- EventBus: [/Assets/Scipts/EventBus](Assets/Scipts/EventBus)
+- EventBus: [/Assets/Scripts/EventBus](Assets/Scripts/EventBus)
 - Inventory and Items: [/Assets/Scripts/Inventory](Assets/Scripts/Items)
 - Finite State Machine: [/Assets/Scripts/Entities/FSM](Assets/Scripts/Entities/FSM)
 - Projectile Controller: [/Assets/Scripts/Projectiles](Assets/Scripts/Projectiles)
