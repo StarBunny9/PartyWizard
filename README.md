@@ -3,9 +3,7 @@ Party Wizard is a short easy to play, roguelike experience
 
 Explore a dungeon with various enemies. Gather XP to level up to upgrade your stats, find items to aid you in your journey and become strong enough to defeat the final boss!
 
-You can download the game on its [Itch.io](https://mr-pancake.itch.io/party-wizard) page!
-
-Feel free to leave feedback or suggestions in the comments.
+You can download the game on its [Itch.io](https://xstarbunnyx.itch.io/party-wizard) page!
 ## Content:
 - 2 Enemies
 - 1 Boss
@@ -17,11 +15,11 @@ The game is not fully developed. some upgrades and features are missing/unbalanc
 ## Source Code
 feel free to check out the code I've written so far. Interesting systems you might want to check out include:
 - EventBus: /Assets/Scipts/EventBus
-- Inventory and Items: /Assets/Scripts/Inventory
-- Finite State Machine: /Assets/Scripts/Entities/FSM
-- Projectile Controller: /Assets/Scripts/Projectiles
-- Level and upgrade System: /Assets/Scripts/Entities/Levels/Upgrades
-- Modular and Dynamic health- and xp-bar: /Assets/Scripts/UI
+- Inventory and Items: [/Assets/Scripts/Inventory](/Assets/Scripts/Inventory)
+- Finite State Machine: [/Assets/Scripts/Entities/FSM](/Assets/Scripts/Entities/FSM)
+- Projectile Controller: [/Assets/Scripts/Projectiles](/Assets/Scripts/Projectiles)
+- Level and upgrade System: [/Assets/Scripts/Entities/Levels/Upgrades](/Assets/Scripts/Entities/Levels/Upgrades)
+- Modular and Dynamic health- and xp-bar: [/Assets/Scripts/UI](/Assets/Scripts/UI)
 
 Party wizard is a game development project for my software architecture course at school. The goal of this project is to learn more about software architecture. 
 The focus was mostly on making decoupled, scalable systems using design patterns such as OOP principles, strategy pattern, model view presenter, Observer, Event Bus, ScriptableObjects, Finite State Machine and command patterns, Many of which are present in this project!
